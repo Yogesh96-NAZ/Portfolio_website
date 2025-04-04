@@ -4,7 +4,8 @@ A sleek and responsive personal portfolio website built using **React.js**, **Ta
 
 ## 🚀 Live Demo
 
-👉 [Visit Live Website](......https://yogeshlucifer-portfolio.netlify.app/)
+👉 [Visit Live Website](https://yogeshlucifer-portfolio.netlify.app/)
+
 ---
 
 ## 🧰 Tech Stack
@@ -28,15 +29,16 @@ A sleek and responsive personal portfolio website built using **React.js**, **Ta
 ---
 
 ## 📬 Contact
-💼 LinkedIn....[www.linkedin.com/in/yogesh-prajapati-6384b92ab]
-📧 Mail......[yogesh.devx@ieee.org]
+💼 LinkedIn-[www.linkedin.com/in/yogesh-prajapati-6384b92ab]
+
+📧 Mail-[yogesh.devx@ieee.org]
 
 
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone[https://github.com/Yogesh96-NAZ/Portfolio_website.git]
+cd Portfolio_website
 npm install
 npm run dev  # or npm start
